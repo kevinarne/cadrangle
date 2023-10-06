@@ -11,10 +11,10 @@ CADrangle is a card game for those CAD nerds who are competitive about everythin
         - "Existential Dread."
 - Draw hands.
     - From a shuffled deck, turn over the first card.
-    - The player to the left of the judge starts.
-    - The player can either choose the face-up card, or draw the top card from the deck.
-    - Go around the circle, left of the judge, until everyone has 5 cards in their hands.
-- The judge sets a timer for 5 minutes, and everyone else tries to model using the cards in their hands (plus one free Sketch) and their CAD software of choice to mdoel the goal.
+    - Left of judge starts.
+    - Either choose the face-up card, or draw the top card.
+    - Continue until all players have 5 cards.
+- Set a timer for 5 minutes, and everyone else tries to model using the cards in their hands (plus one free Sketch) and their CAD software of choice to model the goal.
 - The judge role moves to the left after each round.
 - For each round you win, you get one less card in subsequent rounds.
 - First to win 3 challenges wins!
