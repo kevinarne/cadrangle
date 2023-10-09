@@ -4,7 +4,7 @@ CADrangle is a card game for those CAD nerds who are competitive about everythin
 # How to Play
 - Get 4-6 people together.
 - Whoever last opened a CAD software is the first judge.
-- The judge picks something the other players has to model.
+- The judge picks something the other players have to model.
     - These can be whatever you want.
         - "A bunny designed for injection molding."
         - "A planter that reminds me of Cthulu."
@@ -31,6 +31,24 @@ CADrangle is a card game for those CAD nerds who are competitive about everythin
 CADrangle has 52 cards in the deck, which means you can simply write the names of the cards on a normal playing card deck.
 - I recommend using a permanent marker so the names won't wash off whenever you launder your cards.
     - If you always play with dirty cards you can ignore that.
+- Anyways, here's the list of cards:
+
+| Card Type | Number |
+| --- | --- |
+| Sketch | 8 |
+| Extrude | 7 | 
+| Revolve | 5 |
+| Sweep | 3 |
+| Shell | 3 |
+| Chamfer/Fillet | 4 |
+| Loft | 3 |
+| Rectangular Pattern | 3 |
+| Circular Pattern | 3 |
+| Pipe | 3 |
+| Combine | 3 |
+| Plane at an angle | 3 |
+| Draft | 2 |
+| Mirror | 2 |
 
 # What's Does CADrangle Mean?
 I just put some random words after CAD; it doesn't mean anything. Truthfully, I'm not sold on the name myself.
